@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.arka {
+    position: relative;
+    left: 750px;
+    top: 250px;
+    opacity: 0.7;
+    z-index: -1;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    
+}
+
+/* hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 10px;
+    width: 6%;
+} */
+
+p {
+    font-family: 'Playfair Display', serif;
+}
+
+.jumbotron {
+    background-image: linear-gradient(#C7B198, #DFD3C3, #C7B198);
+    margin: 0;
+    padding: 30px;
+}
+
+.navbar {
+    background-image: linear-gradient(#C7B198, #DFD3C3, #C7B198);
+}
+
+.site-footer {
+    background-image: linear-gradient(#C7B198, #DFD3C3, white );
+    padding: 20px 0; 
+}
+
